@@ -1,0 +1,54 @@
+{
+  "standard": "PRINCE2",
+  "description": "Projects IN Controlled Environments 2",
+  "sections": [
+    {
+      "id": "prince2-1",
+      "title": "Project Management Principles",
+      "category": "fundamentals",
+      "content": "PRINCE2 is built on seven principles that provide the foundation for managing projects. These principles are derived from lessons learned from project successes and failures and provide a framework for good practice in project management. The principles include continued business justification, learn from experience, defined roles and responsibilities, manage by stages, manage by exception, focus on products, and tailor to suit the project environment."
+    },
+    {
+      "id": "prince2-2",
+      "title": "Risk Management",
+      "category": "risk",
+      "content": "PRINCE2 risk management is based on the identification, assessment, and control of uncertainty and, as a consequence, improves the ability of the project to succeed. Risk management should be applied to all aspects of the project. The risk management approach defines how risks will be managed on the project including the specific risk management procedures, techniques, standards, and responsibilities. Regular risk reviews should be conducted throughout the project."
+    },
+    {
+      "id": "prince2-3",
+      "title": "Stakeholder Management",
+      "category": "stakeholders",
+      "content": "PRINCE2 defines clear roles and responsibilities for stakeholders within the project management team. The project board provides unified direction and represents the interests of business, user, and supplier stakeholder groups. Communication management strategy defines the means and frequency of communication between the project and its stakeholder community, both within and external to the corporate organization. Stakeholder engagement is managed through defined roles and communication processes."
+    },
+    {
+      "id": "prince2-4",
+      "title": "Quality Management",
+      "category": "quality",
+      "content": "PRINCE2 quality management is based on a customer/supplier environment where the customer specifies the acceptance criteria for the project's products and the supplier creates products that meet those criteria. Quality planning identifies the quality responsibilities for each product and the quality control methods to be used. Quality control methods include quality reviews, testing procedures, and other quality measures. Quality assurance provides confidence that the project is being conducted in accordance with the agreed standards."
+    },
+    {
+      "id": "prince2-5",
+      "title": "Managing a Stage Boundary",
+      "category": "resources",
+      "content": "PRINCE2 manages projects in stages, and at the end of each management stage, the project manager must request authorization to proceed to the next stage. This process includes updating the project plan and business case, reviewing lessons learned, and obtaining approval for the next stage plan. Stage boundaries provide natural decision points for the project board to review progress and decide whether to continue the project."
+    },
+    {
+      "id": "prince2-6",
+      "title": "Communication Management Strategy",
+      "category": "communications",
+      "content": "The communication management strategy defines the means and frequency of communication between the project and its stakeholder community. It describes how the project will communicate with stakeholders, both formally through reports and informally through meetings and conversations. The strategy should identify the information needs of different stakeholder groups and the most effective way to communicate with them throughout the project lifecycle."
+    },
+    {
+      "id": "prince2-7",
+      "title": "Managing Product Delivery",
+      "category": "schedule",
+      "content": "PRINCE2 focuses on the delivery of products rather than activities. The project is organized around the creation and delivery of products that collectively achieve the project's objectives. Work packages are used to delegate authority from the project manager to team managers for the delivery of specific products. The managing product delivery process controls the link between the project manager and the team manager."
+    },
+    {
+      "id": "prince2-8",
+      "title": "Business Case Management",
+      "category": "cost",
+      "content": "The business case provides the justification for undertaking the project and is used to evaluate its ongoing viability. It describes the business need, options considered, expected benefits, costs, risks, and timescales. The business case is created during project initiation and maintained throughout the project lifecycle. Regular reviews ensure that the project remains justified and aligned with business objectives."
+    }
+  ]
+}

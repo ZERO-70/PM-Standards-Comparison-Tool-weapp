@@ -1,0 +1,54 @@
+{
+  "standard": "PMBOK 7th Edition",
+  "description": "A Guide to the Project Management Body of Knowledge",
+  "sections": [
+    {
+      "id": "pmbok-1",
+      "title": "Project Management Fundamentals",
+      "category": "fundamentals",
+      "content": "Project management is the application of knowledge, skills, tools, and techniques to project activities to meet the project requirements. Projects are temporary endeavors undertaken to create a unique product, service, or result. Project management involves balancing competing project constraints including scope, quality, schedule, budget, resources, and risks."
+    },
+    {
+      "id": "pmbok-2",
+      "title": "Risk Management",
+      "category": "risk",
+      "content": "Project risk management includes the processes of conducting risk management planning, identification, analysis, response planning, response implementation, and monitoring risk on a project. The objectives of project risk management are to increase the likelihood and impact of positive events and decrease the likelihood and impact of negative events in the project. Risk management should be continuous throughout the project lifecycle."
+    },
+    {
+      "id": "pmbok-3",
+      "title": "Stakeholder Engagement",
+      "category": "stakeholders",
+      "content": "Project stakeholder engagement includes the processes required to identify the people, groups, or organizations that could impact or be impacted by the project, to analyze stakeholder expectations and their impact on the project, and to develop appropriate management strategies for effectively engaging stakeholders in project decisions and execution. Stakeholder engagement is critical to project success."
+    },
+    {
+      "id": "pmbok-4",
+      "title": "Quality Management",
+      "category": "quality",
+      "content": "Project quality management includes the processes and activities that determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken. Quality management supports continuous process improvement activities and emphasizes prevention over inspection. Quality is the degree to which a set of inherent characteristics fulfills requirements."
+    },
+    {
+      "id": "pmbok-5",
+      "title": "Resource Management",
+      "category": "resources",
+      "content": "Project resource management includes the processes to identify, acquire, and manage the resources needed for the successful completion of the project. These processes help ensure that the right resources are available to the project manager and project team at the right time and place. Project resources include team members, facilities, equipment, materials, infrastructure, and tools."
+    },
+    {
+      "id": "pmbok-6",
+      "title": "Communications Management",
+      "category": "communications",
+      "content": "Project communications management includes the processes that are required to ensure timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and the ultimate disposition of project information. Communication is the bridge connecting diverse stakeholders involved in a project, spanning cultural and organizational differences, different levels of expertise, and various perspectives and interests."
+    },
+    {
+      "id": "pmbok-7",
+      "title": "Schedule Management",
+      "category": "schedule",
+      "content": "Project schedule management includes the processes required to manage the timely completion of the project. The schedule management processes are integrated with the processes from other knowledge areas to create, execute, monitor, and control the overall project schedule. The key benefit of these processes is that they provide guidance and direction on how the project schedule will be managed throughout the project."
+    },
+    {
+      "id": "pmbok-8",
+      "title": "Cost Management",
+      "category": "cost",
+      "content": "Project cost management includes the processes involved in planning, estimating, budgeting, financing, funding, managing, and controlling costs so that the project can be completed within the approved budget. Cost management is primarily concerned with the cost of the resources needed to complete project activities, but should also consider the effect of project decisions on the cost of using, maintaining, and supporting the product, service, or result of the project."
+    }
+  ]
+}

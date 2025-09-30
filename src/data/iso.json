@@ -1,0 +1,54 @@
+{
+  "standard": "ISO 21500/21502",
+  "description": "International Standard for Project Management",
+  "sections": [
+    {
+      "id": "iso-1",
+      "title": "Project Management Concepts",
+      "category": "fundamentals",
+      "content": "ISO 21500 provides guidance on project management concepts and processes. It defines a project as a unique process consisting of a set of coordinated and controlled activities with start and finish dates, undertaken to achieve an objective conforming to specific requirements. Project management is the application of methods, tools, techniques, and competencies to a project to meet project requirements. The standard emphasizes the importance of context and organizational factors."
+    },
+    {
+      "id": "iso-2",
+      "title": "Risk Management",
+      "category": "risk",
+      "content": "ISO 21502 provides guidance on risk management within project management context. Risk is defined as the effect of uncertainty on objectives and can have positive or negative effects. Risk management processes include risk identification, risk analysis, risk evaluation, and risk treatment. The organization should establish a systematic approach to risk management that is proportionate to the complexity and importance of the project. Risk management should be integrated into all project management processes."
+    },
+    {
+      "id": "iso-3",
+      "title": "Stakeholder Management",
+      "category": "stakeholders",
+      "content": "ISO 21502 emphasizes the importance of identifying and managing stakeholders throughout the project lifecycle. Stakeholders are individuals, groups, or organizations that can affect, be affected by, or perceive themselves to be affected by the project. Stakeholder management includes identifying stakeholders, understanding their needs and expectations, and developing strategies to effectively engage with them. Regular stakeholder communication and engagement are essential for project success."
+    },
+    {
+      "id": "iso-4",
+      "title": "Quality Management",
+      "category": "quality",
+      "content": "ISO 21502 integrates quality management principles into project management. Quality is the degree to which a set of inherent characteristics of an object fulfills requirements. Quality management includes quality planning, quality assurance, and quality control. The project should establish quality objectives that are aligned with organizational strategy and stakeholder expectations. Quality management should be applied throughout the project lifecycle and integrated with other project management processes."
+    },
+    {
+      "id": "iso-5",
+      "title": "Resource Management",
+      "category": "resources",
+      "content": "ISO 21502 addresses the management of resources required for project execution. Resources include human resources, facilities, equipment, materials, technology, and finances. Resource management involves resource planning, resource acquisition, resource development, and resource control. The project should identify resource requirements early and develop strategies to ensure resources are available when needed. Resource management should consider organizational constraints and external factors."
+    },
+    {
+      "id": "iso-6",
+      "title": "Information and Communication",
+      "category": "communications",
+      "content": "ISO 21502 emphasizes the importance of effective information and communication management in projects. Communication should be timely, accurate, relevant, and understandable to the intended audience. The project should establish communication strategies and processes that facilitate effective information exchange among stakeholders. Information management includes the collection, processing, storage, and distribution of project information throughout the project lifecycle."
+    },
+    {
+      "id": "iso-7",
+      "title": "Schedule Management",
+      "category": "schedule",
+      "content": "ISO 21502 provides guidance on schedule management as part of integrated project management. Schedule management involves defining activities, sequencing activities, estimating activity durations, and developing and controlling the project schedule. The schedule should be realistic, achievable, and aligned with project objectives and constraints. Regular monitoring and control of the schedule is essential to ensure timely project completion."
+    },
+    {
+      "id": "iso-8",
+      "title": "Cost Management",
+      "category": "cost",
+      "content": "ISO 21502 addresses cost management within the broader context of project management. Cost management includes estimating costs, developing budgets, and controlling costs throughout the project lifecycle. Cost management should consider all types of costs including direct costs, indirect costs, and life-cycle costs. The project should establish cost baselines and implement cost control processes to ensure the project is completed within budget while achieving its objectives."
+    }
+  ]
+}
